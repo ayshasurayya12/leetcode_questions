@@ -6,7 +6,7 @@
 
 
 class Solution(object):
-    def findDifference(self, nums1, nums2):
+    def findDiff(self, nums1, nums2):
         """
         :type nums1: List[int]
         :type nums2: List[int]
@@ -20,4 +20,4 @@ class Solution(object):
         return [diff1,diff2]
 
 s = Solution()
-print(s.findDifference([1,2,3],[2,4,6]))
+print(s.findDiff([1,2,3],[2,4,6]))
