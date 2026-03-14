@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayshasurayya12/leetcode_questions/tree/master/0001-two-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayshasurayya12/leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ayshasurayya12/leetcode_questions/tree/master/0001-two-sum) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
