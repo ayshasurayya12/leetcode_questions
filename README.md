@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayshasurayya12/leetcode_questions/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/ayshasurayya12/leetcode_questions/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 ## Math
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayshasurayya12/leetcode_questions/tree/master/0001-two-sum) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
 |  |
@@ -32,4 +34,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1684-count-the-number-of-consistent-strings](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1684-count-the-number-of-consistent-strings) |
+## Sorting
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
