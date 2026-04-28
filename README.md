@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0577-employee-bonus](https://github.com/ayshasurayya12/leetcode_questions/tree/master/0577-employee-bonus) |
+| [1068-product-sales-analysis-i](https://github.com/ayshasurayya12/leetcode_questions/tree/master/1068-product-sales-analysis-i) |
 ## Hash Table
 |  |
 | ------- |
